@@ -1,0 +1,11 @@
+TIME:      12      Male Arrived    Bathroom:             Queue:    M
+TIME:      12      Male Entered    Bathroom:    M        Queue:     
+TIME:      47    Female Arrived    Bathroom:    M        Queue:    F
+TIME:      64         Male Left    Bathroom:             Queue:    F
+TIME:      64    Female Entered    Bathroom:    F        Queue:     
+TIME:     106      Male Arrived    Bathroom:    F        Queue:    M
+TIME:     152    Female Arrived    Bathroom:    F        Queue:   MF
+TIME:     250       Female Left    Bathroom:             Queue:   MF
+TIME:     250      Male Entered    Bathroom:    M        Queue:    F
+TIME:     361         Male Left    Bathroom:             Queue:    F
+TIME:     361    Female Entered    Bathroom:    F        Queue:     
